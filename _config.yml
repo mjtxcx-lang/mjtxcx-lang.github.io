@@ -1,0 +1,9 @@
+title: 每日新闻中文站
+description: 自动化新闻翻译，每日更新
+theme: jekyll-theme-minimal
+markdown: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
