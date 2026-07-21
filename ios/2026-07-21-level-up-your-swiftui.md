@@ -1,51 +1,16 @@
-# Level up your SwiftUI
+# 提升你的 SwiftUI 水平：Paul Hudson 在线研讨会
 
-**来源:** [https://www.hackingwithswift.com/articles/279/level-up-your-swiftui](https://www.hackingwithswift.com/articles/279/level-up-your-swiftui)
+> 原文：[Level up your SwiftUI](https://www.hackingwithswift.com/articles/279/level-up-your-swiftui) | 日期：2026-07-21
 
-**日期:** 2026-07-21
+Paul Hudson 宣布将于 10 月 11 日举办一场互动式在线研讨会，帮助开发者写出更好的 SwiftUI 代码。这个研讨会曾在全球多个大会上举办，反馈非常积极：内容清晰、实用，充满可立即应用的知识点。
 
-## 中文概述
+**研讨会涵盖的主题：**
+- 更智能的代码架构
+- 更清晰的 Swift 和 SwiftUI 写法
+- 更新已弃用的 API
+- 国际化布局
+- 创建一致的设计风格
+- 更好的 UI 和 UX
+- 稳健的 Xcode 项目结构
 
-SwiftUI进阶指南：从基础到高级的实用技巧
-
----
-
-## 原文摘录
-
-Save 50% on my books and bundles!
-Level up your SwiftUI
-Learn how to take average code and iteratively improve it until it shines
-On October 11th I’m running an interactive online workshop to help you write better SwiftUI code, and I hope you can join!
-It's something I’ve run at several conferences worldwide, and the feedback is always very positive: it's clear, practical, and packed with takeaways you can use
-We focus on issues such as:
-Smarter code architecture
-Clearer Swift and SwiftUI
-Updating deprecated code
-Internationalizing layouts
-Creating consistent designs
-Solid Xcode project structure
-It’s accessible to all levels of SwiftUI developers – you can come and contribute as much as you want, or stay quiet and just watch if you prefer.
-The workshop takes place at 10am UK time and then again at 5pm UK time, both on October 11th.
-Each session will last about three hours.
-This workshop is free for all Hacking with Swift+ subscribers. You can attend either workshop or both, or if you can’t attend a transcript will be available a couple of days later. Links to the streams will be published on the HWS+ homepage a few days before the event.
-Join today and unlock this workshop
-Swift Career Accelerator
-, book discounts, monthly live streams, and more.
-If you want to level up your SwiftUI skills in just a few hours, this is the workshop you can’t afford to miss!
-You know how to code. Now learn how to
-My new app focuses on everything around your app that actually determines success, bringing together your App Store listing, competitor research, pricing, reviews, analytics, marketing, and launch workflow so you're never figuring it out alone.
-Download Kickstart here
-Introducing Kickstart: the app that helps indie developers ship
-Teach your AI to write Swift the Hacking with Swift way
-Agent skills in Xcode: How to install and use them today
-SwiftUI Agent Skill - Write better code with Claude, Codex, and other AI tools
-What to fix in AI-generated Swift code
-One Swift mistake everyone should stop making today
-What's new in SwiftUI for iOS 26
-What's new in Swift 6.2?
-Was this page useful? Let us know!
-Average rating: 4.5/5
-Click here to visit the Hacking with Swift store >>
-You are not logged in
-Log in or create account
-Link copied to your pasteboard.
+研讨会面向所有水平的 SwiftUI 开发者，参与者可以积极互动，也可以安静观看。当天有两场：英国时间上午 10 点和下午 5 点，每场约 3 小时。Hacking with Swift+ 订阅者可免费参加，研讨会结束后几天会提供文字记录。

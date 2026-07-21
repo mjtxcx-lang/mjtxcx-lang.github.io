@@ -1,46 +1,15 @@
-# The History of Kodee, Kotlin’s Mascot
+# Kodee 的诞生：Kotlin 吉祥物背后的故事
 
-**来源:** [https://blog.jetbrains.com/research/2026/07/the-history-of-kodee/](https://blog.jetbrains.com/research/2026/07/the-history-of-kodee/)
+> 原文：[The History of Kodee, Kotlin's Mascot](https://blog.jetbrains.com/research/2026/07/the-history-of-kodee/) | 日期：2026-07-21
 
-**日期:** 2026-07-21
+几年前，Kotlin 团队认为这门编程语言需要一个吉祥物——一个有趣、友好的角色，让开发者感到更亲切。毕竟，许多其他编程语言都有自己的角色：Go 的 Gopher、PHP 的 elePHPant、Dart 的 Dash、Rust 的 Ferris 等等。
 
-## 中文概述
+Kodee 的诞生并非仅仅是一个设计挑战，而是 Kotlin 营销团队与 JetBrains 设计和战略研究团队深度协作的成果。项目目标是创建一个真正与开发者社区产生共鸣的吉祥物。
 
-The History of Kodee, Kotlin’s Mascot
+**设计过程：**
+战略研究团队采用结构化方法：通过调查收集反馈、分析用户情绪、组织焦点小组来发掘开发者期望的价值观和特征。最初的设计概念是一个机器人伙伴，微妙地呼应 Kotlin 标志——一个乐于助人、平易近人、以屏幕为面孔的角色，像一个随时准备伸出援手的可靠伙伴。
 
----
+**社区反馈与迭代：**
+初版发布后获得了大部分正面反馈，但一些社交媒体和论坛表明该角色并未完全打动部分社区成员。团队根据反馈进行了迭代改进，最终形成了今天大家熟知的 Kodee 形象。
 
-## 原文摘录
-
-Research is crucial for progress and innovation, which is why at JetBrains we are passionate about both scientific and market research
-About JetBrains Research
-The History of Kodee, Kotlin’s Mascot
-A few years back, the Kotlin team figured it was time their programming language had a mascot – something fun and friendly to make developers feel more at home. After all, so many other programming languages have their own characters –
-Bringing Kodee to life wasn’t just a design challenge; it was a deeply collaborative effort by the Kotlin Marketing team, together with the Design and Strategic Research teams at JetBrains. The project’s goal was to create a mascot that truly resonated with the developer community. To do that, Strategic Research team leaned into a structured approach: gathering feedback through surveys, analyzing user sentiment, and facilitating a focus group to uncover the values and traits developers wanted to see.
-What follows is a behind-the-scenes look at how thoughtful research and creative iteration turned a simple idea into a beloved mascot.
-First iteration of the Kotlin mascot
-The mascot project was initiated and driven by the Kotlin Marketing team. The first design concept was the result of a thoughtful and detailed creative process in which Kotlin designers explored everything from the character’s shape and traits to its personality. The initial idea was to introduce a robot companion that subtly echoed the Kotlin logo – one that was helpful and approachable by nature, with a screen for a face. A reliable sidekick, always ready to lend a hand!
-Preliminary sketches of the Kotlin mascot
-, the character received mostly positive feedback. However, a few social media channels and online forums made it clear that the character hadn’t quite clicked with some members of the Kotlin community. This is where the Kotlin Marketing and Strategic Research teams partnered to validate the direction, and the researchers launched a mixed-method project to better understand community sentiment and shape the next iteration. Here, user feedback was indispensable. We started by scouring the internet to get a general idea of how the community felt about the mascot. This allowed us to make a few initial adjustments. At the same time, we realized we needed to dig deeper, so we moved on to the survey phase.
-Survey feedback gathering
-The Strategic Research team organized a feedback round to learn more about developers’ feelings about the character. We wanted to understand not just what people liked or disliked about the mascot, but also the reasons behind their sentiments. And the clock was ticking. With barely more than six months remaining before KotlinConf 2023, starting everything over from scratch (naming, production, etc.) wasn’t an option. Moreover, a lot of Kotlin users had already been vocal about liking the first variant, and it didn’t seem fair to totally replace a mascot that had already won the hearts of so many in the community.
-We kicked things off with a survey. As researchers, we’re used to getting responses that only express broader emotions (“It’s bad”, “I don’t like it”, etc.), so this time we designed the questions to help guide responses toward more specific insights. The survey included a mix of:
-Projective questions like “What specific mascots of other brands do you consider ‘good’ or ‘bad’?”
-Associative questions like “What comes to mind when you see this character?”
-Direct prompts like “What specifically don’t you like about this mascot, beyond just ‘I don’t like it’ or ‘It’s just bad’?”
-Feedback round 1: Results
-We went into this knowing that opinions would differ. After all, you can’t please everyone. But our goal was merely to find overarching patterns in the feedback – and in this regard, we succeeded.
-The most frequent concerns participants expressed were that the character:
-Didn’t feel charming or cute (which is typically expected from a mascot).
-Came across as too plastic and robotic.
-Lacked expression and personality.
-Had some visual quirks that bothered people (for example, the proportions, the oversized eyes, a missing mouth, and the color palette).
-Second iteration of the Kotlin mascot
-Next, we asked the design team to create three quick concept drafts – no deep detailing, just enough to capture the overall impression while reflecting the feedback we’d gathered.
-Each of the three sketches went in a different direction. One leaned into a more human-like but still robotic style; another took a more animal-like approach; and the third refined the original concept, adjusting its features based on the feedback we’d received.
-The three mascot variants
-Each draft gave us a fresh angle to consider, helping us explore what felt most relatable and visually appealing to the community.
-After their changes, three things were clear:
-The proportions felt more natural.
-The character’s personality had begun to shine through. It was no longer just a silent silhouette.
-Its emotions had become more
+Kodee 的故事展示了深思熟虑的研究和创意迭代如何将一个简单的想法转化为深受喜爱的吉祥物，也体现了 JetBrains 对开发者社区的重视。

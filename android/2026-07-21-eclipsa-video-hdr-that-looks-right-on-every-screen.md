@@ -1,55 +1,21 @@
-# Eclipsa Video: HDR That Looks Right on Every Screen
+# Eclipsa Video：让 HDR 在每一块屏幕上都能正确呈现
 
-**来源:** [http://android-developers.googleblog.com/2026/06/eclipsa-video-hdr-review.html](http://android-developers.googleblog.com/2026/06/eclipsa-video-hdr-review.html)
+> 原文：[Eclipsa Video: HDR That Looks Right on Every Screen](http://android-developers.googleblog.com/2026/06/eclipsa-video-hdr-review.html) | 日期：2026-07-21
 
-**日期:** 2026-07-21
+发布者：Tibian Elsheikh，Android Core Graphics 产品经理 & Jeffrey Jose，Android Core Graphics 产品经理
 
-## 中文概述
+我们都经历过这样的场景：你在昏暗的房间里刷着最爱的社交媒体动态，突然弹出一个 HDR（高动态范围）视频。它亮得刺眼，让你不得不眯起眼睛，或者你发现自己不得不调低屏幕亮度才能看清配文。其他时候，一段在手机上看起来鲜艳生动的视频，在客厅电视上观看时却显得平淡、灰暗或褪色。
 
-Eclipsa Video：让HDR视频在所有屏幕上都能正确显示的新格式
+虽然 HDR 技术旨在让视频看起来更丰富、更逼真，但缺乏统一的行业指南意味着完全相同的视频内容可能因你所使用的显示器不同而呈现出意想不到且令人不适的效果。
 
----
+为了解决这个问题，我们推出了 Eclipsa Video——一项新标准，旨在让你喜爱的视频在每块屏幕上看起来都一致、平衡且舒适。Eclipsa Video 基于开放的 SMPTE ST 2094-50 规范构建，该规范由 Google 与 Apple 和 NBCUniversal 合作开发。
 
-## 原文摘录
+## 更高的一致性、舒适度和创意控制
 
-Android Developers Blog
-The latest Android and Google Play news for app and game
-Eclipsa Video: HDR That Looks Right on Every Screen
-Link copied to clipboard
-Posted by Tibian Elsheikh, Product Manager, Android Core Graphics and Jeffrey Jose, Product Manager, Android Core Graphics
-We’ve all been there: You’re scrolling through your favorite social media feed in a dim room, and suddenly an HDR video pops up. It’s so intensely bright that you have to squint, or maybe you find yourself turning down your screen brightness just to read the caption. Other times, a video that looks vibrant on your phone looks flat, dark, or washed out when you watch it on your living room TV.
-While High Dynamic Range (HDR) technology was designed to make videos look richer and more lifelike, the lack of unified industry guidelines means that the exact same clip can render in unexpected and jarring ways depending on the display you’re using.
-To solve this, we’re introducing Eclipsa Video—a new standard built to make your favorite videos look consistent, balanced, and comfortable on every screen. Eclipsa Video builds on the open
-SMPTE ST 2094-50 specification
-, which Google developed in collaboration with Apple and NBCUniversal.
-Sudden brightness spikes during feed scrolling—fixed with Eclipsa Video.
-More consistency, comfort, and creative control
-Eclipsa Video moves past individual display guesswork. Instead of leaving it up to your device to interpret a video’s brightness on its own, our format carries precise guidelines that tell compatible displays exactly how to render the image.
-Designed to scale with your hardware, Eclipsa Video provides three core benefits:
-A consistent baseline:
-Eclipsa Video introduces a shared rulebook for screens. It establishes a consistent benchmark for normal brightness—known as the
-. This ensures standard text, app interfaces, and standard-range colors remain vibrant and readable without causing uncomfortable screen glare.
-Screens have different physical brightness limits, or "headroom." Eclipsa Video guides how displays handle highlights dynamically. Bright details remain brilliant on a premium television, while being scaled intelligently on a mobile screen to prevent sudden blinding transitions.
-Preserved creative intent:
-Rather than applying a single static setting to an entire video, Eclipsa Video carries adaptive, frame-by-frame instructions. Think of it as a set of digital notes from the creator traveling with the video, ensuring the exact colors, contrast, and mood they graded are preserved on your display.
-Eclipsa Video preserves true highlight detail on any screen you watch.
-Built natively into Android 17
-Starting with Android 17, support for Eclipsa Video is built directly into the platform. This means a more comfortable, true-to-life HDR experience is coming natively to the phones, tablets, and TVs you rely on every day. The video you capture carries its creative intent with it, and the video you watch is shown exactly the way it was meant to be seen.
-Guidelines for developers & creators
-We’re inviting the developer and creator ecosystem to help build a more reliable HDR environment:
-Get started with implementation:
-Learn how to configure playback and capture in your apps with our
-ExoPlayer & Media3 integration:
-Standard playback handling built directly into
-allowing ExoPlayer to support Eclipsa Video metadata automatically with no additional player configuration.
-Explore open source tools:
-metadata and dynamic gain curves in real time using
-Eclipsa Video is rolling out now, and you’ll see more apps and devices supporting it over time. Because it’s an open standard, any app developer or hardware manufacturer can integrate it to elevate the viewing experience.
-Try out the new tools in Android 17, explore the open-source metadata, and let us know what you think on our developer channels. We can’t wait to see what you create.
-1. Device Compatibility:
-Eclipsa Video playback and capture are supported natively on devices running Android 17 (API level 37) and above with HDR displays passing Eclipsa Compliance tests.
-2. Developer Resources:
-SMPTE ST 2094-50 Specification
-is openly accessible for technical evaluation.
-Google developers blog
-Google Developers Blog
+Eclipsa Video 超越了单个显示器的猜测。我们的格式不再让设备自行解读视频的亮度，而是携带精确的指导信息，告诉兼容的显示器如何准确地渲染图像。Eclipsa Video 可随硬件扩展，提供三个核心优势：
+
+- **一致的基准线**：Eclipsa Video 为屏幕引入了统一的规则手册。它建立了一个一致的标准亮度基准——称为 HDR 参考白点（HDR Reference White）。这确保了标准文本、应用界面和标准范围色彩保持鲜艳和可读，而不会造成令人不适的屏幕眩光。
+
+- **自适应动态范围余量**：屏幕有不同的物理亮度上限，即"动态范围余量"（Headroom）。Eclipsa Video 指导显示器如何动态处理高光部分。在高端电视上，明亮的细节保持绚丽夺目；而在手机屏幕上，则会智能缩放以防止突然的刺眼过渡。
+
+- **保留创作者意图**：Eclipsa Video 不是对整个视频应用单一的静态设置，而是携带自适应的逐帧指令。可以把它想象成随视频一起传输的创作者数字笔记，确保他们调色的精确色彩、对比度和氛围在你的显示器上得以保留。

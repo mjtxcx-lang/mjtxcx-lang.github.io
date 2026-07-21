@@ -1,63 +1,17 @@
-# Kimi: Threat or menace?
+# Kimi：威胁还是挑战？月之暗面开源模型引发中美 AI 新论战
 
-**来源:** [https://techcrunch.com/2026/07/18/kimi-threat-or-menace/](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/)
+> 原文：[Kimi: Threat or menace?](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/) | 日期：2026-07-21
 
-**日期:** 2026-07-21
+中国公司月之暗面（Moonshot AI）本周发布了新版本的 Kimi 模型，不出所料地引发了一波关于中国和开源 AI 的讨论热潮。
 
-## 中文概述
+月之暗面表示，虽然 Kimi K3"仍落后于最强大的闭源模型 Claude Fable 5 和 GPT 5.6 Sol"，但这款新的开源模型"在我们的评估套件中展现出了前沿水平的性能，持续优于其他受测模型"。来自 Arena.ai 和 Vals AI 的独立分析也表明 Kimi 具有与旗舰前沿模型竞争的实力。
 
-月之暗面Kimi K3开源模型性能接近前沿，引发中美AI竞争新讨论
+这一发布恰逢中国国家主席习近平在上海世界人工智能大会上的演讲，似乎让华尔街感到不安——纳斯达克指数周五下跌约 1%，投资者抛售英伟达等芯片公司股票。
 
----
+许多科技界人士的反应让人想起 2025 年 1 月另一家中国公司 DeepSeek 发布开源 R1 模型后的辩论，只是现在一切都更加紧张——特朗普政府的对华关税战、围绕 Anthropic 国家安全威胁的反复争论，以及各大 AI 公司准备上市的大背景。
 
-## 原文摘录
+特朗普政府前 AI 沙皇 David Sacks 对比了 Kimi 的进展和美国"自我束缚"的现状。而 OpenAI 战略未来负责人 Dean Ball 则认为 Kimi 是"一个非常好的模型"，其性能不太可能"用蒸馏或其他什么来解释"，并预测开源模型主导的世界可能导致"完全的 AI 共产主义"。
 
-Chinese company Moonshot AI released a new version of its Kimi model this week, leading to a perhaps-inevitable wave of discourse about China and open source AI.
-that although Kimi K3 “still trails the most powerful proprietary models, Claude Fable 5 and GPT 5.6 Sol,” the new open source model “demonstrated frontier-level performance across our evaluation suite, consistently outperforming other tested models.” Independent analyses from
-also suggested that Kimi is competitive with flagship frontier models.
-The announcement, which coincided with
-a speech from Chinese president Xi Jinping
-at the World AI Conference in Shanghai, seems to have spooked Wall Street, with
-the Nasdaq dropping about 1%
-on Friday as investors sold off stocks in chip companies like Nvidia.
-Many of the resulting posts from tech industry figures will sound familiar to those who remember the debate after another Chinese company, DeepSeek,
-released its open source R1 model in January 2025
-. Except now, everything seems heightened after
-the Trump administration’s tariff war with China
-, repeated fights over
-the national security threat supposedly posed by Anthropic
-major AI companies prepare to finally go public
-For example, David Sacks — the Trump administration’s former AI czar and now co-chair of the President’s Council of Advisors on Science and Technology —
-contrasted Kimi’s progress
-with a United States that is “tying itself in knots: politicians and bureaucrats are banning new data centers, piling on state regulations, and pushing for new federal agencies to pre-approve frontier models. This is how you lose the AI race.” (The news also gave him an excuse
-at Anthropic, calling Claude an example of “woke lobotomized models” that are “the enemy American competitiveness.”)
-Travis Kalanick echoed complaints
-that Chinese are “distilling off” (i.e.,
-being trained on the outputs of
-) American AI models.
-“If distillation isn’t enforced against, then everyone should be able to distill from everyone else.. otherwise one arm [would be] tied behind American models’ backs,” Kalanick wrote. (Of course, American models have also been built on top of Chinese ones,
-Meanwhile, OpenAI’s head of strategic futures Dean Ball
-that Kimi is “a very good model” whose performance probably can’t be “explained away by distillation or anything like that,” adding that he’s “personally surprised the Chinese state continues to allow the open sourcing of models this good, given potential risks.”
-In fact, Ball suggested that “probable outcome of an open-weight-model-dominant world is full AI communism,” where AI is treated as “a ‘public good’ which will ultimately be provided by the state as a kind of ‘digital public infrastructure.’”
-“This future strikes me as a dystopian hellscape, but I’ve never met an open-weight models advocate who doesn’t ultimately concede this is where things end,” said Ball. He even suggested that the Trump administration (
-which he used to work for
-) will eventually realize it needs to “create large amounts of regulatory risk around the use of open-weight Chinese models.”
-“You don’t need to ‘ban open source’ (one of the dumber motifs of AI policy discussion),” Ball said. “You just need to direct every agency to issue soft law that creates FUD [fear, uncertainty, and doubt]. ‘A Federal Reserve Advisory Bulletin found that there may be backdoors in Chinese AI models.’ It needn’t be that well justified. You just create enough regulatory risk that every regulated enterprise backs off.”
-However, Shakeel Hashim, editor of the AI-focused publication Transformer, argued that
-much of the worry is overblown
-, both because Kimi “likely does not have dangerous cyber capabilities,” and because the Chinese government will face “extremely similar incentives” to restrict open Chinese models once they develop those capabilities.
-When you purchase through links in our articles,
-we may earn a small commission
-. This doesn’t affect our editorial independence.
-Anthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.
-You can contact or verify outreach from Anthony by emailing
-anthony.ha@techcrunch.com
-Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle.
-Savings end June 26, 11:59 p.m. PT
-Apple and Google ordered to purge ‘nudify’ apps from App Stores
-Coca-Cola suspended production at its Fairlife dairy after a ransomware attack
-Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms
-Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex
-Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models
-OpenAI’s first hardware device is reportedly a screenless speaker that can move
-Anthrop
+不过，AI 媒体 Transformer 的编辑 Shakeel Hashim 认为很多担忧被夸大了，因为 Kimi"可能不具备危险的网络能力"，而且一旦开源中国模型发展出这些能力，中国政府将面临"极其相似的激励"来限制它们。
+
+这场争论的核心问题依然是：在 AI 竞赛中，开源是加速创新还是带来安全风险？面对中国在开源 AI 领域的快速追赶，美国应该如何应对？
