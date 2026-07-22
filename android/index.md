@@ -1,5 +1,10 @@
 # ANDROID 新闻
 
+- [2026-07-23 - JetBrains 发布 Kotlin 基准测试：评估 AI 编程 Agent 的真实 Kotlin 能力](2026-07-23-kotlin-benchmark.html)
+- [2026-07-23 - Android Studio Quail 2 稳定版发布：并发 Agent、内存泄漏检测、AI 崩溃修复](2026-07-23-android-studio-quail-2.html)
+- [2026-07-23 - Jetpacker 开源：Google 展示 Android 智能应用完整架构](2026-07-23-android-jetpacker.html)
+- [2026-07-23 - Android 端侧推理实战：Gemini Nano 4 驱动本地 AI 功能](2026-07-23-android-on-device-inference.html)
+- [2026-07-23 - Android 智能应用开发：云端与混合推理实践指南](2026-07-23-android-cloud-hybrid-inference.html)
 - [2026-07-22 - Android Studio Quail 2 稳定版发布：并行代理工作流与内存泄漏检测](2026-06-15-android-studio-quail-2-stable.html)
 - [2026-07-22 - Android Bench 升级至 Harbor 框架，Claude Fable 5 登顶榜首](2026-07-15-android-bench-harbor-framework.html)
 - [2026-07-22 - Kotlin 诞生 15 周年：从 JVM 语言到多平台生态的蜕变之路](2026-07-21-kotlin-15-anniversary.html)

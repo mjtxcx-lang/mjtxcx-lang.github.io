@@ -1,5 +1,10 @@
 # IOS 新闻
 
+- [2026-07-23 - TestFlight 4.3 更新：新增搜索功能，管理大量测试应用更方便](2026-07-23-testflight-search.html)
+- [2026-07-23 - 教 AI 写出 Paul Hudson 风格的 Swift 代码：AGENTS.md 实战](2026-07-23-teach-ai-swift.html)
+- [2026-07-23 - AI 生成的 Swift 代码有哪些坑？资深开发者逐条拆解](2026-07-23-ai-swift-code-fixes.html)
+- [2026-07-23 - SwiftUI Agent Skill 开源发布：让 AI 写出更地道的 SwiftUI 代码](2026-07-23-swiftui-agent-skill.html)
+- [2026-07-23 - 在 Xcode 中使用 AI Agent Skills：安装与实战指南](2026-07-23-agent-skills-xcode.html)
 - [2026-07-22 - iOS 27 beta 4 发布：Siri AI 与 Apple Intelligence 持续进化](2026-07-20-ios-27-beta-4-new-features.html)
 - [2026-07-22 - iOS 27 代码确认：折叠屏 iPhone Ultra 将搭载双电池设计](2026-07-20-iphone-ultra-multi-battery.html)
 - [2026-07-22 - Xcode AI 代理技能实战：让 Claude 和 Codex 写出更好的 Swift 代码](2026-03-11-xcode-agent-skills.html)

@@ -1,5 +1,10 @@
 # FINANCE 新闻
 
+- [2026-07-23 - 美国财政部警告：华尔街部分避税策略可能"好得不真实"](2026-07-23-treasury-tax-trades.html)
+- [2026-07-23 - 芯片股反弹带动美股回升，逢低买入者入场](2026-07-23-us-stocks-rebound.html)
+- [2026-07-23 - 国产 AI 如何突围硅谷神话：技术、资本与生态的三重挑战](2026-07-23-china-ai-vs-silicon-valley.html)
+- [2026-07-23 - 中国考虑收紧 AI 模型和芯片出口管控，中美科技博弈再升级](2026-07-23-china-ai-export-controls.html)
+- [2026-07-23 - 科技股大跌之后，盛宴是否已终结？](2026-07-23-tech-stocks-rout.html)
 - [2026-07-22 - 中国"国家队"出手护盘：购入近 90 亿美元股票稳定市场](2026-07-21-china-national-team-stock-buying.html)
 - [2026-07-22 - 中国氦气出口禁令加剧欧洲供应短缺，半导体与医疗行业承压](2026-07-21-china-helium-export-ban-europe.html)
 - [2026-07-22 - 全球股市波动：美伊紧张局势抵消科技股反弹，油价攀升至 83 美元](2026-07-20-global-markets-us-iran-oil.html)

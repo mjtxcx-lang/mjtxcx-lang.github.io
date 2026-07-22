@@ -1,5 +1,10 @@
 # AI 新闻
 
+- [2026-07-23 - Anthropic 15 亿美元版权和解案获最终批准](2026-07-23-anthropic-copyright-settlement.html)
+- [2026-07-23 - Deezer：每日上传歌曲中 AI 生成内容占比已超 50%](2026-07-23-deezer-ai-music-uploads.html)
+- [2026-07-23 - 美国威胁对中国 AI 模型实施制裁，指控知识产权盗窃](2026-07-23-us-sanctions-chinese-ai.html)
+- [2026-07-23 - Google 发布三款新 Gemini 模型，Pro 旗舰版再度缺席](2026-07-23-google-gemini-new-models.html)
+- [2026-07-23 - 数据中心电力需求激增：2035年将翻四倍](2026-07-23-data-centers-4x-electricity-2035.html)
 - [2026-07-22 - 月之暗面 Kimi K3 开源引发华尔街震荡与"AI 共产主义"论战](2026-07-18-kimi-k3-open-source.html)
 - [2026-07-22 - 非营利组织 Current AI 打造"AI 万维网"，要让 AI 惠及所有文化](2026-07-19-current-ai-public-infrastructure.html)
 - [2026-07-22 - 苹果诉讼或将阻碍 OpenAI 硬件计划与 IPO 进程](2026-07-19-apple-lawsuit-openai-hardware.html)
