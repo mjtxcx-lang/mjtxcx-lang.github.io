@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* 修复手机端新闻标题溢出截断问题 */
+li a {
+  word-break: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
