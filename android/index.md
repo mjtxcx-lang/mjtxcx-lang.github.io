@@ -1,5 +1,10 @@
-# ANDROID 新闻
+# 🤖 Android
 
+- [2026-07-24 - Android Studio Quail 2稳定版发布：多任务AI Agent、原生LeakCanary集成](2026-07-24-android-studio-quail2.html)
+- [2026-07-24 - 构建智能Android应用：Firebase AI Logic实现云端与混合推理](2026-07-24-android-cloud-hybrid-inference.html)
+- [2026-07-24 - 构建智能Android应用：Gemini Nano端侧推理驱动本地AI体验](2026-07-24-android-ondevice-inference.html)
+- [2026-07-24 - Kotlin十五周年：从JVM语言到多平台开发生态，庆祝"Kotlin效应"](2026-07-24-kotlin-15-years.html)
+- [2026-07-24 - JetBrains发布Kotlin AI编程基准测试：Claude Code以85.71%居首](2026-07-24-kotlin-benchmark.html)
 - [2026-07-23 - JetBrains 发布 Kotlin 基准测试：评估 AI 编程 Agent 的真实 Kotlin 能力](2026-07-23-kotlin-benchmark.html)
 - [2026-07-23 - Android Studio Quail 2 稳定版发布：并发 Agent、内存泄漏检测、AI 崩溃修复](2026-07-23-android-studio-quail-2.html)
 - [2026-07-23 - Jetpacker 开源：Google 展示 Android 智能应用完整架构](2026-07-23-android-jetpacker.html)

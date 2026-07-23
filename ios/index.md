@@ -1,5 +1,10 @@
-# IOS 新闻
+# 📱 iOS
 
+- [2026-07-24 - iOS 27公测版第二版发布：Siri AI重磅登场，iPhone全面提速](2026-07-24-ios27-public-beta2.html)
+- [2026-07-24 - macOS 27 Golden Gate公测版第二版发布：Siri AI登陆Mac，Spotlight大幅改善](2026-07-24-macos27-public-beta2.html)
+- [2026-07-24 - iOS 27 Apple Card新增订阅追踪功能：每张信用卡都该有的设计](2026-07-24-apple-card-recurring.html)
+- [2026-07-24 - Xcode中使用AI Agent技能：让Claude和Codex写出更好的Swift代码](2026-07-24-xcode-agent-skills.html)
+- [2026-07-24 - SwiftUI Agent技能开源发布：自动修正AI生成代码中的常见错误](2026-07-24-swiftui-agent-skill.html)
 - [2026-07-23 - TestFlight 4.3 更新：新增搜索功能，管理大量测试应用更方便](2026-07-23-testflight-search.html)
 - [2026-07-23 - 教 AI 写出 Paul Hudson 风格的 Swift 代码：AGENTS.md 实战](2026-07-23-teach-ai-swift.html)
 - [2026-07-23 - AI 生成的 Swift 代码有哪些坑？资深开发者逐条拆解](2026-07-23-ai-swift-code-fixes.html)

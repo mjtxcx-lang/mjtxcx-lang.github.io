@@ -1,5 +1,10 @@
-# HARMONYOS 新闻
+# 🔷 鸿蒙
 
+- [2026-07-24 - 微信鸿蒙版获8.0.19.43邀测升级：消息提示音自定义、AI搜索等多项新功能灰度中](2026-07-24-wechat-harmonyos-update.html)
+- [2026-07-24 - 鸿蒙高校创新赛报名倒计时：四大赛题深度解析，7月26日截止](2026-07-24-harmonyos-contest-guide.html)
+- [2026-07-24 - HarmonyOS 6.1.0.135隐藏特性曝光：单应用音量调节、折叠屏双壁纸等](2026-07-24-harmonyos-6135-hidden-features.html)
+- [2026-07-24 - 华为MatePad Mini等平板获鸿蒙6.1.0.135升级：教育空间上线，AI修图大幅增强](2026-07-24-matepad-harmonyos-update.html)
+- [2026-07-24 - 华为Mate 80等系列开启HarmonyOS 6.1.0.135升级，AI沾色与魔法移图增强](2026-07-24-mate80-harmonyos-update.html)
 - [2026-07-23 - 微信鸿蒙版推送 8.0.19.41 正式版更新](2026-07-23-wechat-harmonyos-update.html)
 - [2026-07-23 - 腾讯 WorkBuddy 正式版发布：安卓、iOS、鸿蒙三端同步上线](2026-07-23-tencent-workbuddy.html)
 - [2026-07-23 - 华为 Mate 80 系列开启 HarmonyOS 6.1.0.135 升级，更多机型 8 月跟进](2026-07-23-mate80-harmonyos-upgrade.html)

@@ -1,5 +1,7 @@
-# AI 新闻
+# 🤖 AI
 
+- [2026-07-24 - AI实验室在"鹈鹕骑车"基准测试上作弊了吗？大规模实验给出答案](2026-07-24-pelicanmaxxing-benchmark.html)
+- [2026-07-24 - 调查：多数美国人对AI数据中心说"别建在我家后院"](2026-07-24-ai-data-center-nimby.html)
 - [2026-07-23 - Anthropic 15 亿美元版权和解案获最终批准](2026-07-23-anthropic-copyright-settlement.html)
 - [2026-07-23 - Deezer：每日上传歌曲中 AI 生成内容占比已超 50%](2026-07-23-deezer-ai-music-uploads.html)
 - [2026-07-23 - 美国威胁对中国 AI 模型实施制裁，指控知识产权盗窃](2026-07-23-us-sanctions-chinese-ai.html)

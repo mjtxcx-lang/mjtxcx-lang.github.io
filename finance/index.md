@@ -1,5 +1,10 @@
-# FINANCE 新闻
+# 💰 财经
 
+- [2026-07-24 - 特斯拉财报前夕：股价处于"拐点"，市场聚焦AI可信度](2026-07-24-tesla-stock-inflection.html)
+- [2026-07-24 - 科技巨头财报前美股震荡：AI投资回报成市场核心关切](2026-07-24-stocks-churn-big-tech.html)
+- [2026-07-24 - Galaxy Digital拟发债35亿美元：AI数据中心融资进军垃圾债市场](2026-07-24-galaxy-digital-junk-bond.html)
+- [2026-07-24 - 科威特遭伊朗导弹袭击仍成功发行60亿美元债券，彰显市场韧性](2026-07-24-kuwait-bond-iran.html)
+- [2026-07-24 - 氪星晚报：iPhone 18系列已量产；小红书否认IPO传闻；三星拟10亿欧元投资Mistral](2026-07-24-36kr-evening-news.html)
 - [2026-07-23 - 美国财政部警告：华尔街部分避税策略可能"好得不真实"](2026-07-23-treasury-tax-trades.html)
 - [2026-07-23 - 芯片股反弹带动美股回升，逢低买入者入场](2026-07-23-us-stocks-rebound.html)
 - [2026-07-23 - 国产 AI 如何突围硅谷神话：技术、资本与生态的三重挑战](2026-07-23-china-ai-vs-silicon-valley.html)
